@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abhinav-karthik
+- 👀 I’m interested in python scripting.
+- 🌱 I’m currently learning cloud automation.
+- 💞️ I’m looking to collaborate on python/shell scripting and development.
